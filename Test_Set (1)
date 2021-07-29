@@ -1,0 +1,28 @@
+,Team,Average_goals_for_per_season,Average_goals_against_per_season,Champion_time,ATK,DEF,Matches played,Participated,Maxstage
+0,Germany,6.0,4.0,3,Mid,Mid,"[43,49]","[11,12]",Final
+1,France,6.888888888888889,4.888888888888889,2,High,Mid,"[38,42]","[9,10]",Final
+2,Spain,5.5,3.6,3,Mid,Mid,"[38,42]","[9,10]",Final
+3,Italy,4.333333333333333,3.0,1,Mid,High,"[38,42]","[9,10]",Final
+4,Portugal,7.0,4.428571428571429,1,High,Mid,"[33,37]","[7,8]",Final
+5,Netherlands,6.333333333333333,4.111111111111111,1,Mid,Mid,"[33,37]","[9,10]",Final
+6,Czech Republic,4.666666666666667,4.777777777777778,0,Mid,Mid,"[28,32]","[9,10]",Final
+7,Russia,3.4545454545454546,4.090909090909091,0,Mid,Mid,"[33,37]","[11,12]",Final
+8,England,4.444444444444445,3.888888888888889,0,Mid,Mid,"[28,32]","[9,10]",Semi-finals
+9,Croatia,4.6,4.0,0,Mid,Mid,"[18,22]","[5,6]",Quarter-finals
+10,Denmark,3.75,5.375,1,Mid,Mid,"[23,27]","[7,8]",Final
+11,Belgium,4.4,5.0,0,Mid,Mid,"[13,17]","[5,6]",Final
+12,Sweden,4.166666666666667,4.0,0,Mid,Mid,"[18,22]","[5,6]",Semi-finals
+13,Greece,3.5,5.0,1,Mid,Mid,"[13,17]","[3,4]",Final
+14,Turkey,3.25,5.5,0,Low,Mid,"[13,17]","[3,4]",Semi-finals
+15,Wales,10.0,6.0,0,High,Mid,"[3,7]","[1,2]",Semi-finals
+16,Poland,2.3333333333333335,3.0,0,Low,High,"[8,12]","[3,4]",Quarter-finals
+17,Switzerland,2.0,3.75,0,Low,Mid,"[13,17]","[3,4]",Round of 16
+18,Serbia,4.4,7.8,0,Mid,Low,"[13,17]","[5,6]",Group
+19,Iceland,8.0,9.0,0,High,Low,"[3,7]","[1,2]",Quarter-finals
+20,Hungary,3.6666666666666665,4.666666666666667,0,Mid,Mid,"[8,12]","[3,4]",Semi-finals
+21,Republic of Ireland,2.0,5.666666666666667,0,Low,Mid,"[8,12]","[3,4]",Round of 16
+22,Romania,2.0,4.2,0,Low,Mid,"[13,17]","[5,6]",Quarter-finals
+23,Scotland,2.0,2.5,0,Low,High,"[3,7]","[1,2]",Group
+24,Norway,1.0,1.0,0,Low,High,"[3,7]","[1,2]",Group
+25,Slovakia,3.0,6.0,0,Low,Mid,"[3,7]","[1,2]",Round of 16
+26,Bulgaria,2.0,6.5,0,Low,Mid,"[3,7]","[1,2]",Group
